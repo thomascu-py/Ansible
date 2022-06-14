@@ -1,6 +1,6 @@
 ---
 - name: show running-config
-  hosts: all
+  hosts: AP-ASR99K-CORE-1
   gather_facts: false
   connection: local
 
